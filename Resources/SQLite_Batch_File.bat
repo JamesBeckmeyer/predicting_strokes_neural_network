@@ -1,1 +1,1 @@
-sqlite3 stroke_db.sqlite ".read SQLite_Creation_Prompt"
+sqlite3 stroke_data.sqlite ".read SQLite_Creation_Prompt"
